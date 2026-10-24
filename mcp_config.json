@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "re-culture-public-guidance": {
+      "serverUrl": "https://re-culture-public-guidance-mcp.reculture-independent.workers.dev/mcp",
+      "enabledTools": [
+        "list_public_guidance",
+        "get_public_guidance"
+      ]
+    }
+  }
+}

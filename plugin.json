@@ -1,0 +1,23 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "re-culture-human-judgement",
+  "displayName": "Re Culture™ Human Judgement",
+  "description": "English And Arabic Human Judgement Reviews With Public Guidance, Evidence Limits And Human Decision Responsibility.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Mazhar Ul Haq / Re Culture™"
+  },
+  "repository": "https://github.com/israrulhaq7013-web/re-culture-human-judgement",
+  "license": "LicenseRef-Re-Culture-Restricted-Use",
+  "logo": "assets/re-culture-official-mark.png",
+  "keywords": [
+    "human-judgement",
+    "public-guidance",
+    "english",
+    "arabic"
+  ],
+  "suggestedPrompts": [
+    "Use Re Culture™ Human Judgement To Review A Fictional AI-Assisted Decision.",
+    "راجع موقفًا افتراضيًا بمساندة الإرشاد العام لري كلتشر™."
+  ]
+}
