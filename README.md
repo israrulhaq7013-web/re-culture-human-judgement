@@ -20,7 +20,7 @@ Provide Only Fictional Or Redacted Context. The Skill Instructs Gemini CLI To Ke
 
 The Review Separates Supplied Facts, Inferences And Missing Evidence; Examines Human Consequences; Identifies Responsibility; And Returns A Concrete Human Next Step Or Pause Condition. It Does Not Certify Compliance, Approve Decisions, Score People, Access Private Reflections Or Inspect Internal Systems. Source Records Are Versioned Snapshots, Not Proof Of Live Currency Or Independent Validation.
 
-This Is A Gemini CLI Candidate Adapted From Re Culture™ Public Guidance v0.1.4 Instructions. Package Structure Has Been Checked; Gemini CLI Installation And Model-Based English And Arabic Tests Remain Pending. A Prior Founder Review Of Arabic Guidance Does Not Approve This New Adaptation Or Establish Full Framework Translation Approval. Public Source Availability Does Not Establish Google Endorsement Or Gallery Listing.
+This Is A Gemini CLI Candidate Adapted From Re Culture™ Public Guidance v0.1.4 Instructions. Package Structure, Extension Loading, Skill Discovery And The MCP Connection Were Verified With Gemini CLI 0.65.0. Model-Based English And Arabic Review Tests Remain Pending. A Prior Founder Review Of Arabic Guidance Does Not Approve This New Adaptation Or Establish Full Framework Translation Approval. Public Source Availability Does Not Establish Google Endorsement Or Gallery Listing.
 
 ## Rights
 
@@ -34,4 +34,4 @@ Copyright © 2026 Mazhar Ul Haq / Re Culture™. The Bundled Restricted-Use Lice
 
 تسترجع المراجعة العربية الأساس ومسار المراجعة والأمثلة، وتفصل بين المعطيات والاستنتاجات والأدلة الناقصة، ثم تعيد الخطوة التالية أو شرط التوقف إلى الإنسان المسؤول. لا تمنح شهادة امتثال أو موافقة مؤسسية، ولا تصنّف الأشخاص أو تصل إلى تأملاتهم الخاصة. لا تُجيز التعليمات تنفيذ أوامر أو تغيير ملفات أو إرسال رسائل نيابة عن المستخدم.
 
-هذه نسخة مرشحة لم يكتمل اختبار تثبيتها أو سلوك النموذج معها. ولا تعني مراجعة الإرشاد العربي السابق اعتماد هذه الصيغة الجديدة أو اكتمال ترجمة الإطار. يحتفظ مظهر الحق وري كلتشر™ بالحقوق وفق الترخيص المرفق، ولا تُطرح الملفات بترخيص مفتوح المصدر.
+هذه نسخة مرشحة جرى التحقق من تحميلها والتعرف على مهارتها واتصال خادم الإرشاد عبر الإصدار ٠٫٦٥٫٠ من واجهة جيميني الطرفية. ولم يكتمل اختبار مخرجات المراجعة بالعربية والإنجليزية. ولا تعني مراجعة الإرشاد العربي السابق اعتماد هذه الصيغة الجديدة أو اكتمال ترجمة الإطار. يحتفظ مظهر الحق وري كلتشر™ بالحقوق وفق الترخيص المرفق، ولا تُطرح الملفات بترخيص مفتوح المصدر.
